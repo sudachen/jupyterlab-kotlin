@@ -1,0 +1,11 @@
+build
+out
+.idea
+.gradle
+/.classpath
+/.project
+/jupyter
+/base/src/main/resources/build_time
+/base/src/main/resources/hash
+/base/src/main/resources/version
+/base/src/main/resources/mvnLocation
